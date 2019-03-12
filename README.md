@@ -1,0 +1,2 @@
+# odoo_community_addons
+asdasdasdasdasdasdasdasd
